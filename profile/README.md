@@ -1,5 +1,5 @@
-Hi there 👋
-# Robotugas Informatika here!
+
+# Hi there 👋 Robotugas Informatika here!
 
 ## 🪄 Tech - Software Engineering - Electro
 - 🎯 Trusted since 2023
