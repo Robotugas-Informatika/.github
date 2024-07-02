@@ -2,8 +2,8 @@ Hi there 👋
 # Robotugas Informatika here!
 
 ## 🪄 Tech - Software Engineering - Electro
-# Trusted since 2023
-# Testimoni 100++
+- 🎯 Trusted since 2023
+- 🎭 Testimoni 100++
 <!--
 
 **Here are some ideas to get you started:**
